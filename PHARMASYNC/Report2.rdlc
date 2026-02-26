@@ -1,0 +1,886 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2008/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <Body>
+    <ReportItems>
+      <Rectangle Name="Rectangle1">
+        <ReportItems>
+          <Textbox Name="Textbox16">
+            <CanGrow>true</CanGrow>
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>Customer Name:</Value>
+                    <Style />
+                  </TextRun>
+                </TextRuns>
+                <Style />
+              </Paragraph>
+            </Paragraphs>
+            <rd:DefaultName>Textbox16</rd:DefaultName>
+            <Top>0.9525cm</Top>
+            <Left>0.34396cm</Left>
+            <Height>0.6cm</Height>
+            <Width>2.73812cm</Width>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+          </Textbox>
+          <Textbox Name="Textbox17">
+            <CanGrow>true</CanGrow>
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value />
+                    <Style />
+                  </TextRun>
+                </TextRuns>
+                <Style />
+              </Paragraph>
+            </Paragraphs>
+            <rd:DefaultName>Textbox17</rd:DefaultName>
+            <Top>0.9525cm</Top>
+            <Left>3.41722cm</Left>
+            <Height>0.6cm</Height>
+            <Width>3.16146cm</Width>
+            <ZIndex>1</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+          </Textbox>
+          <Textbox Name="Textbox18">
+            <CanGrow>true</CanGrow>
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>Customer ID:</Value>
+                    <Style />
+                  </TextRun>
+                </TextRuns>
+                <Style />
+              </Paragraph>
+            </Paragraphs>
+            <rd:DefaultName>Textbox16</rd:DefaultName>
+            <Left>0.34395cm</Left>
+            <Height>0.6cm</Height>
+            <Width>2.26188cm</Width>
+            <ZIndex>2</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+          </Textbox>
+          <Textbox Name="Textbox19">
+            <CanGrow>true</CanGrow>
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value />
+                    <Style />
+                  </TextRun>
+                </TextRuns>
+                <Style />
+              </Paragraph>
+            </Paragraphs>
+            <rd:DefaultName>Textbox17</rd:DefaultName>
+            <Left>3.41722cm</Left>
+            <Height>0.6cm</Height>
+            <Width>2.5cm</Width>
+            <ZIndex>3</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+          </Textbox>
+          <Textbox Name="Textbox20">
+            <CanGrow>true</CanGrow>
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>Adress:</Value>
+                    <Style />
+                  </TextRun>
+                </TextRuns>
+                <Style />
+              </Paragraph>
+            </Paragraphs>
+            <rd:DefaultName>Textbox16</rd:DefaultName>
+            <Left>8.84558cm</Left>
+            <Height>0.6cm</Height>
+            <Width>2.26188cm</Width>
+            <ZIndex>4</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+          </Textbox>
+          <Textbox Name="Textbox21">
+            <CanGrow>true</CanGrow>
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value />
+                    <Style />
+                  </TextRun>
+                </TextRuns>
+                <Style />
+              </Paragraph>
+            </Paragraphs>
+            <rd:DefaultName>Textbox17</rd:DefaultName>
+            <Left>11.28384cm</Left>
+            <Height>0.6cm</Height>
+            <Width>2.5cm</Width>
+            <ZIndex>5</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+          </Textbox>
+          <Textbox Name="Textbox22">
+            <CanGrow>true</CanGrow>
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>Phone No:</Value>
+                    <Style />
+                  </TextRun>
+                </TextRuns>
+                <Style />
+              </Paragraph>
+            </Paragraphs>
+            <rd:DefaultName>Textbox16</rd:DefaultName>
+            <Top>0.9525cm</Top>
+            <Left>8.84558cm</Left>
+            <Height>0.6cm</Height>
+            <Width>2.26188cm</Width>
+            <ZIndex>6</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+          </Textbox>
+          <Textbox Name="Textbox23">
+            <CanGrow>true</CanGrow>
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value />
+                    <Style />
+                  </TextRun>
+                </TextRuns>
+                <Style />
+              </Paragraph>
+            </Paragraphs>
+            <rd:DefaultName>Textbox17</rd:DefaultName>
+            <Top>0.9525cm</Top>
+            <Left>11.28384cm</Left>
+            <Height>0.6cm</Height>
+            <Width>3.58479cm</Width>
+            <ZIndex>7</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+          </Textbox>
+        </ReportItems>
+        <KeepTogether>true</KeepTogether>
+        <Top>0.69605cm</Top>
+        <Left>0.28787cm</Left>
+        <Height>1.78562cm</Height>
+        <Width>16.64167cm</Width>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+        </Style>
+      </Rectangle>
+      <Tablix Name="Tablix3">
+        <TablixBody>
+          <TablixColumns>
+            <TablixColumn>
+              <Width>3.04578cm</Width>
+            </TablixColumn>
+            <TablixColumn>
+              <Width>3.04578cm</Width>
+            </TablixColumn>
+            <TablixColumn>
+              <Width>3.54911cm</Width>
+            </TablixColumn>
+            <TablixColumn>
+              <Width>3.04578cm</Width>
+            </TablixColumn>
+          </TablixColumns>
+          <TablixRows>
+            <TablixRow>
+              <Height>0.56031cm</Height>
+              <TablixCells>
+                <TablixCell>
+                  <CellContents>
+                    <Textbox Name="Textbox24">
+                      <CanGrow>true</CanGrow>
+                      <KeepTogether>true</KeepTogether>
+                      <Paragraphs>
+                        <Paragraph>
+                          <TextRuns>
+                            <TextRun>
+                              <Value>sl ID</Value>
+                              <Style />
+                            </TextRun>
+                          </TextRuns>
+                          <Style />
+                        </Paragraph>
+                      </Paragraphs>
+                      <rd:DefaultName>Textbox24</rd:DefaultName>
+                      <Style>
+                        <Border>
+                          <Color>LightGrey</Color>
+                          <Style>Solid</Style>
+                        </Border>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                    </Textbox>
+                  </CellContents>
+                </TablixCell>
+                <TablixCell>
+                  <CellContents>
+                    <Textbox Name="Textbox26">
+                      <CanGrow>true</CanGrow>
+                      <KeepTogether>true</KeepTogether>
+                      <Paragraphs>
+                        <Paragraph>
+                          <TextRuns>
+                            <TextRun>
+                              <Value>product ID</Value>
+                              <Style />
+                            </TextRun>
+                          </TextRuns>
+                          <Style />
+                        </Paragraph>
+                      </Paragraphs>
+                      <rd:DefaultName>Textbox26</rd:DefaultName>
+                      <Style>
+                        <Border>
+                          <Color>LightGrey</Color>
+                          <Style>Solid</Style>
+                        </Border>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                    </Textbox>
+                  </CellContents>
+                </TablixCell>
+                <TablixCell>
+                  <CellContents>
+                    <Textbox Name="Textbox28">
+                      <CanGrow>true</CanGrow>
+                      <KeepTogether>true</KeepTogether>
+                      <Paragraphs>
+                        <Paragraph>
+                          <TextRuns>
+                            <TextRun>
+                              <Value>product quantity</Value>
+                              <Style />
+                            </TextRun>
+                          </TextRuns>
+                          <Style />
+                        </Paragraph>
+                      </Paragraphs>
+                      <rd:DefaultName>Textbox28</rd:DefaultName>
+                      <Style>
+                        <Border>
+                          <Color>LightGrey</Color>
+                          <Style>Solid</Style>
+                        </Border>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                    </Textbox>
+                  </CellContents>
+                </TablixCell>
+                <TablixCell>
+                  <CellContents>
+                    <Textbox Name="Textbox30">
+                      <CanGrow>true</CanGrow>
+                      <KeepTogether>true</KeepTogether>
+                      <Paragraphs>
+                        <Paragraph>
+                          <TextRuns>
+                            <TextRun>
+                              <Value>TOTAL</Value>
+                              <Style />
+                            </TextRun>
+                          </TextRuns>
+                          <Style />
+                        </Paragraph>
+                      </Paragraphs>
+                      <rd:DefaultName>Textbox30</rd:DefaultName>
+                      <Style>
+                        <Border>
+                          <Color>LightGrey</Color>
+                          <Style>Solid</Style>
+                        </Border>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                    </Textbox>
+                  </CellContents>
+                </TablixCell>
+              </TablixCells>
+            </TablixRow>
+            <TablixRow>
+              <Height>0.53385cm</Height>
+              <TablixCells>
+                <TablixCell>
+                  <CellContents>
+                    <Textbox Name="slID">
+                      <CanGrow>true</CanGrow>
+                      <KeepTogether>true</KeepTogether>
+                      <Paragraphs>
+                        <Paragraph>
+                          <TextRuns>
+                            <TextRun>
+                              <Value>=Fields!slID.Value</Value>
+                              <Style />
+                            </TextRun>
+                          </TextRuns>
+                          <Style />
+                        </Paragraph>
+                      </Paragraphs>
+                      <rd:DefaultName>slID</rd:DefaultName>
+                      <Style>
+                        <Border>
+                          <Color>LightGrey</Color>
+                          <Style>Solid</Style>
+                        </Border>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                    </Textbox>
+                  </CellContents>
+                </TablixCell>
+                <TablixCell>
+                  <CellContents>
+                    <Textbox Name="productID">
+                      <CanGrow>true</CanGrow>
+                      <KeepTogether>true</KeepTogether>
+                      <Paragraphs>
+                        <Paragraph>
+                          <TextRuns>
+                            <TextRun>
+                              <Value>=Fields!productID.Value</Value>
+                              <Style />
+                            </TextRun>
+                          </TextRuns>
+                          <Style />
+                        </Paragraph>
+                      </Paragraphs>
+                      <rd:DefaultName>productID</rd:DefaultName>
+                      <Style>
+                        <Border>
+                          <Color>LightGrey</Color>
+                          <Style>Solid</Style>
+                        </Border>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                    </Textbox>
+                  </CellContents>
+                </TablixCell>
+                <TablixCell>
+                  <CellContents>
+                    <Textbox Name="product_quantity">
+                      <CanGrow>true</CanGrow>
+                      <KeepTogether>true</KeepTogether>
+                      <Paragraphs>
+                        <Paragraph>
+                          <TextRuns>
+                            <TextRun>
+                              <Value>=Fields!product_quantity.Value</Value>
+                              <Style />
+                            </TextRun>
+                          </TextRuns>
+                          <Style />
+                        </Paragraph>
+                      </Paragraphs>
+                      <rd:DefaultName>product_quantity</rd:DefaultName>
+                      <Style>
+                        <Border>
+                          <Color>LightGrey</Color>
+                          <Style>Solid</Style>
+                        </Border>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                    </Textbox>
+                  </CellContents>
+                </TablixCell>
+                <TablixCell>
+                  <CellContents>
+                    <Textbox Name="TOTAL">
+                      <CanGrow>true</CanGrow>
+                      <KeepTogether>true</KeepTogether>
+                      <Paragraphs>
+                        <Paragraph>
+                          <TextRuns>
+                            <TextRun>
+                              <Value>=Fields!TOTAL.Value</Value>
+                              <Style />
+                            </TextRun>
+                          </TextRuns>
+                          <Style />
+                        </Paragraph>
+                      </Paragraphs>
+                      <rd:DefaultName>TOTAL</rd:DefaultName>
+                      <Style>
+                        <Border>
+                          <Color>LightGrey</Color>
+                          <Style>Solid</Style>
+                        </Border>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                    </Textbox>
+                  </CellContents>
+                </TablixCell>
+              </TablixCells>
+            </TablixRow>
+          </TablixRows>
+        </TablixBody>
+        <TablixColumnHierarchy>
+          <TablixMembers>
+            <TablixMember />
+            <TablixMember />
+            <TablixMember />
+            <TablixMember />
+          </TablixMembers>
+        </TablixColumnHierarchy>
+        <TablixRowHierarchy>
+          <TablixMembers>
+            <TablixMember>
+              <KeepWithGroup>After</KeepWithGroup>
+            </TablixMember>
+            <TablixMember>
+              <Group Name="Details" />
+            </TablixMember>
+          </TablixMembers>
+        </TablixRowHierarchy>
+        <DataSetName>DataSet2</DataSetName>
+        <Top>3.2625cm</Top>
+        <Left>0.28787cm</Left>
+        <Height>1.09416cm</Height>
+        <Width>12.68645cm</Width>
+        <ZIndex>1</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+        </Style>
+      </Tablix>
+      <Textbox Name="Textbox25">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>Discount %:</Value>
+                <Style />
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox16</rd:DefaultName>
+        <Top>8.37833cm</Top>
+        <Left>7.03397cm</Left>
+        <Height>0.6cm</Height>
+        <Width>2.26188cm</Width>
+        <ZIndex>2</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox27">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value />
+                <Style />
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox17</rd:DefaultName>
+        <Top>8.37833cm</Top>
+        <Left>10.10724cm</Left>
+        <Height>0.6cm</Height>
+        <Width>2.5cm</Width>
+        <ZIndex>3</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox29">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>Sab Total:</Value>
+                <Style />
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox16</rd:DefaultName>
+        <Top>7.60194cm</Top>
+        <Left>7.03397cm</Left>
+        <Height>0.6cm</Height>
+        <Width>2.26188cm</Width>
+        <ZIndex>4</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox31">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value />
+                <Style />
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox17</rd:DefaultName>
+        <Top>7.60194cm</Top>
+        <Left>10.10724cm</Left>
+        <Height>0.6cm</Height>
+        <Width>2.5cm</Width>
+        <ZIndex>5</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox32">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>Grand Total:</Value>
+                <Style />
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox16</rd:DefaultName>
+        <Top>9.35729cm</Top>
+        <Left>7.03397cm</Left>
+        <Height>0.6cm</Height>
+        <Width>2.26188cm</Width>
+        <ZIndex>6</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox33">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value />
+                <Style />
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox17</rd:DefaultName>
+        <Top>9.35729cm</Top>
+        <Left>10.10724cm</Left>
+        <Height>0.6cm</Height>
+        <Width>2.5cm</Width>
+        <ZIndex>7</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox38">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>THANK YOU FOR YOUR PURCHASE !</Value>
+                <Style>
+                  <FontSize>12pt</FontSize>
+                  <FontWeight>Bold</FontWeight>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox38</rd:DefaultName>
+        <Top>11.49105cm</Top>
+        <Left>5.10328cm</Left>
+        <Height>0.6cm</Height>
+        <Width>8.35989cm</Width>
+        <ZIndex>8</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <BackgroundColor>Aqua</BackgroundColor>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+    </ReportItems>
+    <Height>5.03125in</Height>
+    <Style>
+      <Border>
+        <Style>None</Style>
+      </Border>
+    </Style>
+  </Body>
+  <Width>7.73276in</Width>
+  <Page>
+    <PageHeader>
+      <Height>2.2112cm</Height>
+      <PrintOnFirstPage>true</PrintOnFirstPage>
+      <PrintOnLastPage>true</PrintOnLastPage>
+      <ReportItems>
+        <Textbox Name="Textbox1">
+          <CanGrow>true</CanGrow>
+          <KeepTogether>true</KeepTogether>
+          <Paragraphs>
+            <Paragraph>
+              <TextRuns>
+                <TextRun>
+                  <Value>AL QASMIA MEDICAL STORE</Value>
+                  <Style>
+                    <FontSize>14pt</FontSize>
+                    <FontWeight>Bold</FontWeight>
+                  </Style>
+                </TextRun>
+              </TextRuns>
+              <Style />
+            </Paragraph>
+          </Paragraphs>
+          <rd:DefaultName>Textbox1</rd:DefaultName>
+          <Top>0.63182cm</Top>
+          <Left>4.30953cm</Left>
+          <Height>0.73229cm</Height>
+          <Width>8.66479cm</Width>
+          <Style>
+            <Border>
+              <Style>None</Style>
+            </Border>
+            <BackgroundColor>Aqua</BackgroundColor>
+            <PaddingLeft>2pt</PaddingLeft>
+            <PaddingRight>2pt</PaddingRight>
+            <PaddingTop>2pt</PaddingTop>
+            <PaddingBottom>2pt</PaddingBottom>
+          </Style>
+        </Textbox>
+        <Image Name="Image1">
+          <Source>Embedded</Source>
+          <Value>ID360_F_153653613_llJ3dVkulkn3jsWpoAMFJJDBPPZMXJi8</Value>
+          <Sizing>Fit</Sizing>
+          <Left>1.45203cm</Left>
+          <Height>2.00271cm</Height>
+          <Width>2.47896cm</Width>
+          <ZIndex>1</ZIndex>
+          <Style>
+            <Border>
+              <Style>None</Style>
+            </Border>
+          </Style>
+        </Image>
+      </ReportItems>
+      <Style>
+        <Border>
+          <Style>None</Style>
+        </Border>
+      </Style>
+    </PageHeader>
+    <PageHeight>29.7cm</PageHeight>
+    <PageWidth>21cm</PageWidth>
+    <LeftMargin>2cm</LeftMargin>
+    <RightMargin>2cm</RightMargin>
+    <TopMargin>2cm</TopMargin>
+    <BottomMargin>2cm</BottomMargin>
+    <ColumnSpacing>0.13cm</ColumnSpacing>
+    <Style />
+  </Page>
+  <AutoRefresh>0</AutoRefresh>
+  <DataSources>
+    <DataSource Name="DataSet2">
+      <ConnectionProperties>
+        <DataProvider>System.Data.DataSet</DataProvider>
+        <ConnectString>/* Local Connection */</ConnectString>
+      </ConnectionProperties>
+      <rd:DataSourceID>91aca770-2f80-46bd-bfc5-b1c7eb39c7fb</rd:DataSourceID>
+    </DataSource>
+  </DataSources>
+  <DataSets>
+    <DataSet Name="InvoiceTable">
+      <Query>
+        <DataSourceName />
+        <CommandText />
+      </Query>
+    </DataSet>
+  </DataSets>
+  <EmbeddedImages>
+    <EmbeddedImage Name="ID360_F_153653613_llJ3dVkulkn3jsWpoAMFJJDBPPZMXJi8">
+      <MIMEType>image/jpeg</MIMEType>
+      <ImageData>/9j/4AAQSkZJRgABAQEBLAEsAAD/4QBWRXhpZgAATU0AKgAAAAgABAEaAAUAAAABAAAAPgEbAAUAAAABAAAARgEoAAMAAAABAAIAAAITAAMAAAABAAEAAAAAAAAAAAEsAAAAAQAAASwAAAAB/+0ALFBob3Rvc2hvcCAzLjAAOEJJTQQEAAAAAAAPHAFaAAMbJUccAQAAAgAEAP/hDIFodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvADw/eHBhY2tldCBiZWdpbj0n77u/JyBpZD0nVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkJz8+Cjx4OnhtcG1ldGEgeG1sbnM6eD0nYWRvYmU6bnM6bWV0YS8nIHg6eG1wdGs9J0ltYWdlOjpFeGlmVG9vbCAxMC4xMCc+CjxyZGY6UkRGIHhtbG5zOnJkZj0naHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyc+CgogPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9JycKICB4bWxuczp0aWZmPSdodHRwOi8vbnMuYWRvYmUuY29tL3RpZmYvMS4wLyc+CiAgPHRpZmY6UmVzb2x1dGlvblVuaXQ+MjwvdGlmZjpSZXNvbHV0aW9uVW5pdD4KICA8dGlmZjpYUmVzb2x1dGlvbj4zMDAvMTwvdGlmZjpYUmVzb2x1dGlvbj4KICA8dGlmZjpZUmVzb2x1dGlvbj4zMDAvMTwvdGlmZjpZUmVzb2x1dGlvbj4KIDwvcmRmOkRlc2NyaXB0aW9uPgoKIDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PScnCiAgeG1sbnM6eG1wTU09J2h0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8nPgogIDx4bXBNTTpEb2N1bWVudElEPmFkb2JlOmRvY2lkOnN0b2NrOmJjNDFkNTAxLWI4YzQtNDNhNC04
+MWM0LTllOGY2NTcwZTg2ODwveG1wTU06RG9jdW1lbnRJRD4KICA8eG1wTU06SW5zdGFuY2VJRD54bXAuaWlkOjE3ZGRkNWY1LTI0YmYtNGE0OC1iZWNkLTlkZGY4M2RhNmZiMzwveG1wTU06SW5zdGFuY2VJRD4KIDwvcmRmOkRlc2NyaXB0aW9uPgo8L3JkZjpSREY+CjwveDp4bXBtZXRhPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+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</ImageData>
+    </EmbeddedImage>
+  </EmbeddedImages>
+  <rd:ReportUnitType>Cm</rd:ReportUnitType>
+  <rd:ReportID>ada81740-7fb0-4f8c-a2e0-e73e8d614772</rd:ReportID>
+</Report>

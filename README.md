@@ -1,10 +1,10 @@
-\## Dashboard
+## Dashboard
 
-!\[Dashboard](images/Dashboard.png)
+![Dashboard](images/Dashboard.png)
 
 
 
-\## Sales \& Billing
+## Sales & Billing
 
-!\[Sales Billing](images/SalesBilling.png)
+![Sales Billing](images/SalesBilling.png)
 

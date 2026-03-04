@@ -1,0 +1,296 @@
+C:\Users\MusawirHassan\source\repos\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\PHARMASYNC.exe
+C:\Users\MusawirHassan\source\repos\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\PHARMASYNC.deps.json
+C:\Users\MusawirHassan\source\repos\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\PHARMASYNC.runtimeconfig.json
+C:\Users\MusawirHassan\source\repos\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\PHARMASYNC.dll
+C:\Users\MusawirHassan\source\repos\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\PHARMASYNC.pdb
+C:\Users\MusawirHassan\source\repos\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.Form1.resources
+C:\Users\MusawirHassan\source\repos\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.csproj.GenerateResource.cache
+C:\Users\MusawirHassan\source\repos\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MusawirHassan\source\repos\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.AssemblyInfoInputs.cache
+C:\Users\MusawirHassan\source\repos\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.AssemblyInfo.cs
+C:\Users\MusawirHassan\source\repos\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.csproj.CoreCompileInputs.cache
+C:\Users\MusawirHassan\source\repos\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.dll
+C:\Users\MusawirHassan\source\repos\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\refint\PHARMASYNC.dll
+C:\Users\MusawirHassan\source\repos\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.pdb
+C:\Users\MusawirHassan\source\repos\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.genruntimeconfig.cache
+C:\Users\MusawirHassan\source\repos\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\ref\PHARMASYNC.dll
+D:\STUDY LOBBY\UNIVERSITY CAPCHA\4th sem\Project\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\PHARMASYNC.exe
+D:\STUDY LOBBY\UNIVERSITY CAPCHA\4th sem\Project\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\PHARMASYNC.deps.json
+D:\STUDY LOBBY\UNIVERSITY CAPCHA\4th sem\Project\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\PHARMASYNC.runtimeconfig.json
+D:\STUDY LOBBY\UNIVERSITY CAPCHA\4th sem\Project\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\PHARMASYNC.dll
+D:\STUDY LOBBY\UNIVERSITY CAPCHA\4th sem\Project\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\PHARMASYNC.pdb
+D:\STUDY LOBBY\UNIVERSITY CAPCHA\4th sem\Project\PHARMASYNC\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.Form1.resources
+D:\STUDY LOBBY\UNIVERSITY CAPCHA\4th sem\Project\PHARMASYNC\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.csproj.GenerateResource.cache
+D:\STUDY LOBBY\UNIVERSITY CAPCHA\4th sem\Project\PHARMASYNC\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDY LOBBY\UNIVERSITY CAPCHA\4th sem\Project\PHARMASYNC\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.AssemblyInfoInputs.cache
+D:\STUDY LOBBY\UNIVERSITY CAPCHA\4th sem\Project\PHARMASYNC\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.AssemblyInfo.cs
+D:\STUDY LOBBY\UNIVERSITY CAPCHA\4th sem\Project\PHARMASYNC\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.csproj.CoreCompileInputs.cache
+D:\STUDY LOBBY\UNIVERSITY CAPCHA\4th sem\Project\PHARMASYNC\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.dll
+D:\STUDY LOBBY\UNIVERSITY CAPCHA\4th sem\Project\PHARMASYNC\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\refint\PHARMASYNC.dll
+D:\STUDY LOBBY\UNIVERSITY CAPCHA\4th sem\Project\PHARMASYNC\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.pdb
+D:\STUDY LOBBY\UNIVERSITY CAPCHA\4th sem\Project\PHARMASYNC\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.genruntimeconfig.cache
+D:\STUDY LOBBY\UNIVERSITY CAPCHA\4th sem\Project\PHARMASYNC\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\ref\PHARMASYNC.dll
+D:\STUDY LOBBY\UNIVERSITY CAPCHA\4th sem\Project\PHARMASYNC\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.Properties.Resources.resources
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\refint\PHARMASYNC.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.pdb
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.csproj.AssemblyReference.cache
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\PHARMASYNC.exe
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\PHARMASYNC.dll.config
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\PHARMASYNC.deps.json
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\PHARMASYNC.runtimeconfig.json
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\PHARMASYNC.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\PHARMASYNC.pdb
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.Properties.Resources.resources
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.csproj.GenerateResource.cache
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.AssemblyInfoInputs.cache
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.AssemblyInfo.cs
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.csproj.CoreCompileInputs.cache
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.csproj.Up2Date
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.genruntimeconfig.cache
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\ref\PHARMASYNC.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.FormInvoice.resources
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\iTextSharp.LGPLv2.Core.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\SkiaSharp.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.AdminForm.resources
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.FormLogin.resources
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.MainForm.resources
+C:\Users\MusawirHassan\Desktop\Pharmasync (2)\PHARMASYNC\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.InvoiceForm.resources
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\PHARMASYNC.exe
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\PHARMASYNC.dll.config
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\PHARMASYNC.deps.json
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\PHARMASYNC.runtimeconfig.json
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\PHARMASYNC.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\PHARMASYNC.pdb
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\iTextSharp.LGPLv2.Core.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\SkiaSharp.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.csproj.AssemblyReference.cache
+D:\Data_Science\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.AdminForm.resources
+D:\Data_Science\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.MainForm.resources
+D:\Data_Science\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.FormInvoice.resources
+D:\Data_Science\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.FormLogin.resources
+D:\Data_Science\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.InvoiceForm.resources
+D:\Data_Science\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.Properties.Resources.resources
+D:\Data_Science\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.csproj.GenerateResource.cache
+D:\Data_Science\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data_Science\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.AssemblyInfoInputs.cache
+D:\Data_Science\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.AssemblyInfo.cs
+D:\Data_Science\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.csproj.CoreCompileInputs.cache
+D:\Data_Science\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.csproj.Up2Date
+D:\Data_Science\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\refint\PHARMASYNC.dll
+D:\Data_Science\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.pdb
+D:\Data_Science\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.genruntimeconfig.cache
+D:\Data_Science\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\ref\PHARMASYNC.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\PHARMASYNC.exe
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\PHARMASYNC.dll.config
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\PHARMASYNC.deps.json
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\PHARMASYNC.runtimeconfig.json
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\PHARMASYNC.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\PHARMASYNC.pdb
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\iTextSharp.LGPLv2.Core.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\OpenTK.Audio.OpenAL.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\OpenTK.Compute.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\OpenTK.Core.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\OpenTK.Graphics.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\OpenTK.Input.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\OpenTK.Mathematics.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\OpenTK.Windowing.Common.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\OpenTK.Windowing.Desktop.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\SkiaSharp.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libglfw.so.3
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libglfw.3.dylib
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libglfw.3.dylib
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\runtimes\win-x64\native\glfw3.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\runtimes\win-x86\native\glfw3.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.csproj.AssemblyReference.cache
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.AdminForm.resources
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.MainForm.resources
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.FormInvoice.resources
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.FormLogin.resources
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.InvoiceForm.resources
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.Properties.Resources.resources
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.csproj.GenerateResource.cache
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.AssemblyInfoInputs.cache
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.AssemblyInfo.cs
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.csproj.CoreCompileInputs.cache
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.csproj.Up2Date
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\refint\PHARMASYNC.dll
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.pdb
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\PHARMASYNC.genruntimeconfig.cache
+C:\Users\MusawirHassan\Desktop\PHARMASYNC\PHARMASYNC\obj\Debug\net8.0-windows\ref\PHARMASYNC.dll
